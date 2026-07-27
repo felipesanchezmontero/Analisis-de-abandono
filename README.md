@@ -13,7 +13,9 @@ A partir del análisis se identificaron los principales factores asociados al ab
 
 Como resultado, se propusieron dos estrategias de retención con el objetivo de reducir la tasa de abandono entre un **5% y un 7%** en los siguientes dos cuatrimestres, con un impacto económico potencial estimado entre **$167K y $199K anuales**.
 
-
+## Archivos del repositorio
+-  Dashboard de Power BI
+-  PDF con recomendaciones
 
 ## Desarrollo del proyecto
 
@@ -52,14 +54,21 @@ El objetivo fue transformar los datos disponibles en información accionable par
 5. Análisis de negocio.
 6. Generación de recomendaciones.
 
-### Dashboard
+### 1. Preparación de datos y 2. Construcción del modelo, 
+
+A continuación, se presenta el esquema de relación de datos usado en el modelo
+
+<img width="1066" height="655" alt="image" src="https://github.com/user-attachments/assets/31790f21-b464-40f1-b210-23bd190ecda4" />
+
+
+
+### 3. Creación de consultas y 4. Dashboard
 
 <img width="1272" height="716" alt="Dashboard Maven Communicatiosn" src="https://github.com/user-attachments/assets/6b9b64e5-9999-46ff-949f-9ea1f618ff8a" />
 
 
 ---
-
-### Principales hallazgos
+### 5. Análisis del negocio - Principales hallazgos
 
 - Los contratos **Mes a Mes** presentan la mayor tasa de abandono.
 - Los clientes con menor antigüedad muestran el mayor riesgo de abandono.
@@ -68,7 +77,7 @@ El objetivo fue transformar los datos disponibles en información accionable par
 
 ---
 
-### Recomendaciones
+### 6. Recomendaciones
 
 - Incentivar la migración a contratos de mayor permanencia.
 - Fortalecer los programas de retención durante los primeros meses.
