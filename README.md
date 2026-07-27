@@ -13,6 +13,9 @@ A partir del análisis se identificaron los principales factores asociados al ab
 
 Como resultado, se propusieron dos estrategias de retención con el objetivo de reducir la tasa de abandono entre un **5% y un 7%** en los siguientes dos cuatrimestres, con un impacto económico potencial estimado entre **$167K y $199K anuales**.
 
+Este caso se basa en el siguiente enlace:
+https://mavenanalytics.io/challenges/maven-churn-challenge
+
 ## Archivos del repositorio
 -  Dashboard de Power BI
 -  PDF con recomendaciones
